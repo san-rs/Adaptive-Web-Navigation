@@ -1,3 +1,9 @@
+Adaptive Web Navigation
+
+This project is an adaptive Q&A web application based on Stack Overflow.
+The front-end is done in React and the back-end is Node.js.
+The database used is MongoDB and Elasticsearch is used to index data.
+
 ### Database:
 Using Mongodb cloud server, hence no need to run mongodb instance from your computer. Connections are already made.
 
